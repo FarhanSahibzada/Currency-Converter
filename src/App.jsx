@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import InputBox from './component/input'
-import Currencyinfo from './hooks/currencyinfo'
+import Currencyinfo from './hooks/Currencyinfo'
 
 function App() {
   const [amount, setamount] = useState('')
